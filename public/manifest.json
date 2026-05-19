@@ -1,9 +1,8 @@
 {
-<<<<<<< HEAD
+
   "short_name": "Tandas",
-=======
   "short_name": "React App",
->>>>>>> 4416714c5b0ff825b00a4481abc9f18903fdb92d
+
   "name": "Create React App Sample",
   "icons": [
     {
