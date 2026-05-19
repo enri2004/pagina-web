@@ -20,7 +20,7 @@ function DownloadSection() {
             {/* Coloca el archivo APK en public/downloads/tandas-tia-yayi.apk */}
             <a
               className="button button-primary button-large"
-              href="https://github.com/enri2004/Tandas_Tia_Yayi/releases/download/v1.0/Tandas-Tia-Yayi.apk"
+              href="https://github.com/enri2004/Tandas_Tia_Yayi/releases/download/v1.0/Tandas.Tia.Yayi.apk"
               download
             >
               Descargar APK
