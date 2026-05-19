@@ -20,7 +20,7 @@ function DownloadSection() {
             {/* Coloca el archivo APK en public/downloads/tandas-tia-yayi.apk */}
             <a
               className="button button-primary button-large"
-              href="https://drive.google.com/file/d/1zUIJfrfTumOuyhjvrqdZbldBS9PGCUS5/view?usp=drivesdk"
+              href="https://drive.google.com/uc?export=download&id=1zUIJfrfTumOuyhjvrqdZbldBS9PGCUS5"
               download
             >
               Descargar APK
